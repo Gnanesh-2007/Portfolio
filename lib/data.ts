@@ -63,7 +63,7 @@ export const PERSONAL_DATA = {
   status: "Building Scalable Systems & High-Performance AI Applications",
   email: "gnaneshreddy357@gmail.com",
   phone: "+91 7780632515",
-  resume: "https://drive.google.com/file/d/17PHf9DdGlCuP9RDq8KPSFzaQf4PJVsp8/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1qHA_sqtvoGQp8sPN3L5MbdRguVkQzY0c/view?usp=sharing",
   education: {
     degree: "B.Tech in Computer Science & Engineering",
     institution: "VIT-AP University, Amaravati",
@@ -74,7 +74,7 @@ export const PERSONAL_DATA = {
     github: "https://github.com/Gnanesh-2007",
     linkedin: "https://www.linkedin.com/in/gnanesh-reddy-a60141325/",
     email: "mailto:gnaneshreddy357@gmail.com",
-    resume: "https://drive.google.com/file/d/17PHf9DdGlCuP9RDq8KPSFzaQf4PJVsp8/view?usp=drive_link",
+    resume: "https://drive.google.com/file/d/1qHA_sqtvoGQp8sPN3L5MbdRguVkQzY0c/view?usp=sharing",
   },
   currently: {
     building: "VIT-AP Nexus & Real-Time Computer Vision Pipelines",
@@ -93,7 +93,7 @@ export const CERTIFICATIONS: Certification[] = [
     date: "Aug 2026",
     badge: "GCP Certified • ID: GCP-ACE-2026",
     description: "Demonstrated skills in deploying applications, monitoring operations, and managing enterprise cloud infrastructure on Google Cloud Platform.",
-    verifyUrl: "https://drive.google.com/file/d/17PHf9DdGlCuP9RDq8KPSFzaQf4PJVsp8/view?usp=drive_link",
+    verifyUrl: "https://drive.google.com/file/d/1qHA_sqtvoGQp8sPN3L5MbdRguVkQzY0c/view?usp=sharing",
   },
   {
     id: "gcp-genai",
@@ -102,7 +102,7 @@ export const CERTIFICATIONS: Certification[] = [
     date: "Sep 2026",
     badge: "Gen AI Specialist • Cohort 3",
     description: "Hands-on engineering in Generative AI architectures, LLM orchestration, multimodal pipelines, and Vertex AI deployments.",
-    verifyUrl: "https://drive.google.com/file/d/17PHf9DdGlCuP9RDq8KPSFzaQf4PJVsp8/view?usp=drive_link",
+    verifyUrl: "https://drive.google.com/file/d/1qHA_sqtvoGQp8sPN3L5MbdRguVkQzY0c/view?usp=sharing",
   },
 ];
 
