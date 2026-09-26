@@ -150,16 +150,6 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
     ],
   },
   {
-    category: "AI & Computer Vision",
-    skills: [
-      { name: "PyTorch", level: "Advanced" },
-      { name: "YOLOv8", level: "Advanced" },
-      { name: "DeepSORT / ByteTrack", level: "Advanced" },
-      { name: "OpenCV", level: "Advanced" },
-      { name: "512-dim Re-ID Embeddings", level: "Advanced" },
-    ],
-  },
-  {
     category: "Core Computer Science",
     skills: [
       { name: "Data Structures & Algorithms", level: "Core" },
